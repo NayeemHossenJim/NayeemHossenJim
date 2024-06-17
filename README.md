@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nayeem_Hossen_Jim 👨‍💻.
-![Nayeem Hossen Jim](Jim.jpg)
 
 
 - 🔰 I’m interested in Game Developement & Web Developement.
