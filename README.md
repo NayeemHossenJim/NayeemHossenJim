@@ -14,6 +14,8 @@
 </div>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayeemHossenJim&size_weight=0.5&count_weight=0.5)
+
 - 📷  Here are some screenshot during my Game Dev Projects .
 <div>
 <img src="Kratos.png" width="100%" height="100%">
