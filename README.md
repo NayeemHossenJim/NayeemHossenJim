@@ -58,10 +58,13 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-orcin-six.vercel.app?user=NayeemHossenJim&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeemHossenJim&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10)](https://github.com/NayeemHossenJim/github-readme-stats)
+
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
 
 <br/><br/>
 
