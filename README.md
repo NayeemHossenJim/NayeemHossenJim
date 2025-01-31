@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nayeem+Hossen+Jim!;" />
 </h1>
 
-<h3 align="center">A passionate Game Developer from Bangladesh .</h3>
+<h3 align="center">A passionate Game Developer & Aspiring Machine Learning Engineer from Bangladesh .</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently **Looking for job**
  
- 🌱 I’m currently learning **Unreal Engine, Unity, GAS, RPG**
+ 🌱 I’m currently learning **Unreal Engine, Unity, GAS, RPG, Machine learning**
 
 💬 Ask me about **Gameplay Programming, C++, Blueprint... or anything [here](https://github.com/NayeemHossenJim/NayeemHossenJim/issues)**
 
