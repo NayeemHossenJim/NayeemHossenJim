@@ -24,7 +24,7 @@
   <a href="mailto:nayeemhossenjim@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/md-nayeem-hossen-jim-8993a434a/" target="_blank">
+  <a href="https://www.linkedin.com/in/nayeem-hossen-jim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://nayeemhossenjim.github.io/My-portfolio/" target="_blank">
