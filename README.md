@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Unreal Engine, Unity, GAS, RPG, Machine learning**
 
-💬 Ask me about **Gameplay Programming, C++, Blueprint... or anything [here](https://github.com/NayeemHossenJim/NayeemHossenJim/issues)**
+💬 Ask me about **ML, DL, Gameplay Programming, C++, Blueprint... or anything [here](https://github.com/NayeemHossenJim/NayeemHossenJim/issues)**
 
 ⚡ Fun fact **In RDR2 Arthur Could servive if he drink Nigel West Dickens Elixir !!**
  
