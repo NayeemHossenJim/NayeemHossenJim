@@ -12,7 +12,7 @@
  
  🔭 I’m currently **Looking for job**
  
- 🌱 I’m currently learning **Unreal Engine, Unity, GAS, RPG, Machine learning**
+ 🌱 I’m currently learning **Machine learning, Langchain, Chatbot, Unreal Engine, Unity, GAS, RPG,**
 
 💬 Ask me about **ML, DL, Gameplay Programming, C++, Blueprint... or anything [here](https://github.com/NayeemHossenJim/NayeemHossenJim/issues)**
 
