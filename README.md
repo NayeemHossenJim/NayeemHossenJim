@@ -56,19 +56,34 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-orcin-six.vercel.app?user=NayeemHossenJim&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeemHossenJim&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10)](https://github.com/NayeemHossenJim/github-readme-stats)
-<br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NayeemHossenJim&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+
+  <!-- row 1: Streak + Stats -->
+  <a href="https://git.io/streak-stats">
+    <img
+      alt="GitHub Streak"
+      src="https://github-readme-streak-stats-orcin-six.vercel.app?user=NayeemHossenJim&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
+      height="170"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=NayeemHossenJim&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true"
+      height="170"
+    />
+  </a>
+
+  <!-- row 2: Top Languages -->
+  <br/>
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NayeemHossenJim&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    height="170"
+  />
 
 </div>
 
 <hr/>
-
-<br/>
-
-<br/>
