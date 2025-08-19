@@ -43,7 +43,7 @@
 
 <br/>
 <hr/>
-<h2 align="center">🪩 Github Contribution 🪩</h2>
+<h2 align="center">🔵 Github Contribution 🔵</h2>
 <picture>
   <source
     media="(prefers-color-scheme: light)"
