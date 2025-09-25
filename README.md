@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently **Looking for job**
+ 🔭 Serving as a ***Junior AI Engineer*** at Backbencher Studios, contributing to AI-driven solutions and projects
  
  🌱 I’m currently learning **Machine learning, Langchain, Chatbot, Unreal Engine, Unity, GAS, RPG,**
 
