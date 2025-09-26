@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Serving as a ***Junior AI Engineer*** at Backbencher Studios, contributing to AI-driven solutions and projects
+ 🔭 Serving as a ***Junior AI Engineer*** at Softvence Delta, contributing to AI-driven solutions and projects
  
  🌱 I’m currently learning **Machine learning, Langchain, Chatbot, Unreal Engine, Unity, GAS, RPG,**
 
