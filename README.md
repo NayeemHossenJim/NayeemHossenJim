@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,fastapi,anaconda,github,git,unreal,unity,godot" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,jenkins,pkl,docker,kubernetes,kali,notion,linkedin,md,mysql,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,fastapi,anaconda,github,git,githubactions,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,pkl,docker,kubernetes,kali,notion,linkedin,md,mysql,netlify" /><br>
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,javascript,vscode,postman,blender,windows,linux" /><br>
 </div>
 
