@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nayeem+Hossen+Jim!;" />
 </h1>
 
-<h3 align="center">A passionate Machine Learning Engineer & Game Developer from Bangladesh .</h3>
+<h3 align="center">A passionate AI Engineer & Game Developer from Bangladesh .</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 Serving as a ***Junior AI Engineer*** at Softvence Delta, contributing to AI-driven solutions and projects
  
- 🌱 I’m currently learning **Machine learning, Langchain, Chatbot, Unreal Engine, Unity, GAS, RPG,**
+ 🌱 I’m currently learning ** Gen AI, Machine learning, Langchain, Rag-Based Applications, Unreal Engine, Unity, GAS, RPG,**
 
 💬 Ask me about **ML, DL, Gameplay Programming, C++, Blueprint... or anything [here](https://github.com/NayeemHossenJim/NayeemHossenJim/issues)**
 
