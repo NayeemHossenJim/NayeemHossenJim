@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 Serving as a ***Junior AI Engineer*** at Softvence Delta | Betopia group, contributing to AI-driven solutions and projects
+ 🔭 Serving as a Junior AI Engineer at Softvence Delta | Betopia group, contributing to AI-driven solutions and projects
  
- 🌱 I’m currently learning ** Gen AI, Machine learning, Langchain, Rag-Based Applications, Unreal Engine, Unity, GAS, RPG,**
+ 🌱 I’m currently learning Gen AI, Machine learning, Langchain, Rag-Based Applications, Unreal Engine, Unity, GAS, RPG,
 
-💬 Ask me about **ML, DL, Gameplay Programming, C++, Blueprint... or anything [here](https://github.com/NayeemHossenJim/NayeemHossenJim/issues)**
+💬 Ask me about ML, DL, Gameplay Programming, C++, Blueprint... or anything [here](https://github.com/NayeemHossenJim/NayeemHossenJim/issues)
 
-⚡ Fun fact **In RDR2 Arthur Could servive if he drink Nigel West Dickens Elixir !!**
+⚡ Fun fact In RDR2 Arthur Could servive if he drink Nigel West Dickens Elixir !!
  
  </div>
  
