@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Serving as a Junior AI Engineer at Softvence Delta | Betopia group, contributing to AI-driven solutions and projects
+ 🔭 Serving as a Senior AI Engineer at Softvence Delta | Betopia group, contributing to AI-driven solutions and projects
  
  🌱 I’m currently learning Gen AI, Machine learning, Langchain, Rag-Based Applications, Unreal Engine, Unity, GAS, RPG,
 
